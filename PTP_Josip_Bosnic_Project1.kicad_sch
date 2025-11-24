@@ -6805,7 +6805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 44.45 0)
 			(effects
 				(font
@@ -7277,7 +7277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 25.4 0)
 			(effects
 				(font
@@ -7305,6 +7305,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 246.38 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 246.38 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " ""
 			(at 246.38 25.4 0)
 			(effects
 				(font
@@ -7355,7 +7373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 217.17 138.43 0)
 			(effects
 				(font
@@ -7636,7 +7654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 165.1 105.41 0)
 			(effects
 				(font
@@ -7655,6 +7673,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 165.1 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "RENESAS "
+			(at 165.1 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "CD4027BMS "
 			(at 165.1 105.41 0)
 			(effects
 				(font
@@ -7902,7 +7938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 187.96 105.41 0)
 			(effects
 				(font
@@ -7929,53 +7965,71 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " "RENESAS "
+			(at 187.96 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "CD4027BMS "
+			(at 187.96 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
-			(uuid "9ced8da6-40cf-4dee-a3cc-1b3f7b2ee448")
+			(uuid "9ced8da6-40cf-4dee-a3cc-1b3f7b2ee449")
 		)
 		(pin "1"
-			(uuid "d2a68dac-bc4c-4946-bd21-e5edd772164c")
+			(uuid "d2a68dac-bc4c-4946-bd21-e5edd772164d")
 		)
 		(pin "5"
-			(uuid "1f036455-b525-4876-9ec2-f626c0573e3c")
+			(uuid "1f036455-b525-4876-9ec2-f626c0573e3d")
 		)
 		(pin "14"
-			(uuid "f54e3c06-09c6-442c-9fa1-26f7fce16c44")
+			(uuid "f54e3c06-09c6-442c-9fa1-26f7fce16c45")
 		)
 		(pin "3"
-			(uuid "13d228a7-7341-4b4f-a3b3-17a741614fec")
+			(uuid "13d228a7-7341-4b4f-a3b3-17a741614fed")
 		)
 		(pin "7"
-			(uuid "b5447c11-8e0f-4ed0-8ab6-7a98b9c944c9")
+			(uuid "b5447c11-8e0f-4ed0-8ab6-7a98b9c944ca")
 		)
 		(pin "4"
-			(uuid "ee8396a1-a55f-4bd8-b7d2-5873ca717328")
+			(uuid "ee8396a1-a55f-4bd8-b7d2-5873ca717329")
 		)
 		(pin "11"
-			(uuid "1654612f-ee1b-4122-94a6-d4703cff4900")
+			(uuid "1654612f-ee1b-4122-94a6-d4703cff4901")
 		)
 		(pin "13"
-			(uuid "4b7fd8c9-6430-42b4-a60a-b4fe1e23a033")
+			(uuid "4b7fd8c9-6430-42b4-a60a-b4fe1e23a034")
 		)
 		(pin "10"
-			(uuid "6e7b473b-61b5-4faa-af8f-b73393e0722f")
+			(uuid "6e7b473b-61b5-4faa-af8f-b73393e07230")
 		)
 		(pin "9"
-			(uuid "2bfbce40-e9c9-4700-a760-556a87ba3db1")
+			(uuid "2bfbce40-e9c9-4700-a760-556a87ba3db2")
 		)
 		(pin "12"
-			(uuid "018fc930-06b8-4d34-8a40-a52a92c32106")
+			(uuid "018fc930-06b8-4d34-8a40-a52a92c32107")
 		)
 		(pin "15"
-			(uuid "0cc9cb71-374e-40bd-93a9-69406f958488")
+			(uuid "0cc9cb71-374e-40bd-93a9-69406f958489")
 		)
 		(pin "2"
-			(uuid "b00e9f4b-070f-4c7a-9900-018cdae8c264")
+			(uuid "b00e9f4b-070f-4c7a-9900-018cdae8c265")
 		)
 		(pin "16"
-			(uuid "6339ed85-db00-445a-8c37-c65858170564")
+			(uuid "6339ed85-db00-445a-8c37-c65858170565")
 		)
 		(pin "8"
-			(uuid "0a82617d-2c8c-4e0b-9251-06e7b7411f1c")
+			(uuid "0a82617d-2c8c-4e0b-9251-06e7b7411f1d")
 		)
 		(instances
 			(project ""
@@ -8598,7 +8652,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 217.17 152.4 0)
 			(effects
 				(font
@@ -8726,7 +8780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 80.01 0)
 			(effects
 				(font
@@ -8746,6 +8800,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 255.27 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM "
+			(at 255.27 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "1206S4F2001T5E "
+			(at 255.27 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8947,7 +9019,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 38.1 0)
 			(effects
 				(font
@@ -9146,7 +9218,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 93.98 0)
 			(effects
 				(font
@@ -9166,6 +9238,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 255.27 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM "
+			(at 255.27 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "1206S4F2001T5E "
+			(at 255.27 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9279,7 +9369,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 101.6 0)
 			(effects
 				(font
@@ -9299,6 +9389,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 255.27 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM "
+			(at 255.27 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "1206S4F2001T5E "
+			(at 255.27 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9349,7 +9457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 236.22 93.98 0)
 			(effects
 				(font
@@ -9368,6 +9476,24 @@
 			)
 		)
 		(property "Description" "BCD to 7-segment Driver, Open Collector, 30V outputs"
+			(at 236.22 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "TEXAS INSTRUMENTS "
+			(at 236.22 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "SN74LS47N "
 			(at 236.22 93.98 0)
 			(effects
 				(font
@@ -9527,7 +9653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 217.17 160.02 0)
 			(effects
 				(font
@@ -9589,7 +9715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 38.1 0)
 			(effects
 				(font
@@ -9665,7 +9791,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 25.4 0)
 			(effects
 				(font
@@ -9883,7 +10009,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 83.82 0)
 			(effects
 				(font
@@ -9903,6 +10029,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 255.27 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM "
+			(at 255.27 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "1206S4F2001T5E "
+			(at 255.27 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9950,7 +10094,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 44.45 0)
 			(effects
 				(font
@@ -10017,7 +10161,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 97.79 0)
 			(effects
 				(font
@@ -10037,6 +10181,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 255.27 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM "
+			(at 255.27 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "1206S4F2001T5E "
+			(at 255.27 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10220,7 +10382,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 105.41 0)
 			(effects
 				(font
@@ -10240,6 +10402,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 255.27 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM "
+			(at 255.27 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "1206S4F2001T5E "
+			(at 255.27 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10485,7 +10665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 213.36 99.06 0)
 			(effects
 				(font
@@ -10638,7 +10818,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 87.63 0)
 			(effects
 				(font
@@ -10658,6 +10838,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 255.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM "
+			(at 255.27 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "1206S4F2001T5E "
+			(at 255.27 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10705,7 +10903,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 31.75 0)
 			(effects
 				(font
@@ -11014,6 +11212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number " "LM2574N-5G "
+			(at 63.5 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "5d4b8c0e-f56a-4aa3-a69f-390343ff3201")
 		)
@@ -11140,7 +11347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 69.85 105.41 0)
 			(effects
 				(font
@@ -11159,6 +11366,24 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 69.85 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "C&K "
+			(at 69.85 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "OS102011MS2QN1C "
 			(at 69.85 95.25 0)
 			(effects
 				(font
@@ -11213,7 +11438,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 107.6452 50.8 0)
 			(effects
 				(font
@@ -11232,6 +11457,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 106.68 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "SAMWHA "
+			(at 106.68 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "RD1A227M05011BB "
 			(at 106.68 46.99 0)
 			(effects
 				(font
@@ -11283,7 +11526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 217.17 144.78 0)
 			(effects
 				(font
@@ -11345,7 +11588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 31.75 0)
 			(effects
 				(font
@@ -11470,52 +11713,52 @@
 			)
 		)
 		(pin "3"
-			(uuid "cfb98b6e-e8cc-4713-a95a-f26f16b46b72")
+			(uuid "cfb98b6e-e8cc-4713-a95a-f26f16b46b73")
 		)
 		(pin "14"
-			(uuid "0ed01c4a-2806-4aa6-83f3-ca9560bf5ccd")
+			(uuid "0ed01c4a-2806-4aa6-83f3-ca9560bf5cce")
 		)
 		(pin "6"
-			(uuid "f518c61f-3c9d-4949-bdae-53275006be49")
+			(uuid "f518c61f-3c9d-4949-bdae-53275006be4a")
 		)
 		(pin "7"
-			(uuid "3556cb6e-dc0c-4c2b-8f4b-aa5e7afcc107")
+			(uuid "3556cb6e-dc0c-4c2b-8f4b-aa5e7afcc108")
 		)
 		(pin "4"
-			(uuid "273f9ed8-9339-4956-9559-02d3e8c49edf")
+			(uuid "273f9ed8-9339-4956-9559-02d3e8c49ee0")
 		)
 		(pin "2"
-			(uuid "2d65a2ec-3bf8-4f44-85bc-428a49eeda9d")
+			(uuid "2d65a2ec-3bf8-4f44-85bc-428a49eeda9e")
 		)
 		(pin "11"
-			(uuid "035c1efc-315f-47b7-ba92-f0df386eccae")
+			(uuid "035c1efc-315f-47b7-ba92-f0df386eccaf")
 		)
 		(pin "5"
-			(uuid "64831c31-b4e1-4a65-b257-ae9047e9c18e")
+			(uuid "64831c31-b4e1-4a65-b257-ae9047e9c18f")
 		)
 		(pin "12"
-			(uuid "8d3a3563-cf3d-43b8-b4c7-e0be9db36416")
+			(uuid "8d3a3563-cf3d-43b8-b4c7-e0be9db36417")
 		)
 		(pin "9"
-			(uuid "a882ee9c-bed0-4fb6-bd1c-e198cd666f0e")
+			(uuid "a882ee9c-bed0-4fb6-bd1c-e198cd666f0f")
 		)
 		(pin "1"
-			(uuid "db57db62-145c-47f9-beb1-de0f2e342b59")
+			(uuid "db57db62-145c-47f9-beb1-de0f2e342b5a")
 		)
 		(pin "10"
-			(uuid "e2a7a70d-60f6-4fec-83a9-a1d77f477272")
+			(uuid "e2a7a70d-60f6-4fec-83a9-a1d77f477273")
 		)
 		(pin "13"
-			(uuid "14f67753-f460-4455-8bbc-d4cfcfadcf57")
+			(uuid "14f67753-f460-4455-8bbc-d4cfcfadcf58")
 		)
 		(pin "15"
-			(uuid "0c489443-e805-4ec2-888c-a0352b010f4e")
+			(uuid "0c489443-e805-4ec2-888c-a0352b010f4f")
 		)
 		(pin "16"
-			(uuid "96aaddad-3ee4-47b5-8c96-a48f5504c80a")
+			(uuid "96aaddad-3ee4-47b5-8c96-a48f5504c80b")
 		)
 		(pin "8"
-			(uuid "ec620763-cdb2-487d-b55d-494cdc2a9fee")
+			(uuid "ec620763-cdb2-487d-b55d-494cdc2a9fef")
 		)
 		(instances
 			(project ""
@@ -11726,7 +11969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P12.70mm_Horizontal"
 			(at 81.28 46.99 0)
 			(effects
 				(font
@@ -11746,6 +11989,24 @@
 		)
 		(property "Description" "Schottky diode, filled shape"
 			(at 81.28 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "SMC DIODE SOLUTIONS "
+			(at 81.28 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "11DQ06TA "
+			(at 81.28 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11796,7 +12057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 187.96 40.64 0)
 			(effects
 				(font
@@ -11823,53 +12084,71 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " "RENESAS "
+			(at 187.96 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "CD4027BMS "
+			(at 187.96 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
-			(uuid "9ced8da6-40cf-4dee-a3cc-1b3f7b2ee448")
+			(uuid "9ced8da6-40cf-4dee-a3cc-1b3f7b2ee44a")
 		)
 		(pin "1"
-			(uuid "d2a68dac-bc4c-4946-bd21-e5edd772164c")
+			(uuid "d2a68dac-bc4c-4946-bd21-e5edd772164e")
 		)
 		(pin "5"
-			(uuid "1f036455-b525-4876-9ec2-f626c0573e3c")
+			(uuid "1f036455-b525-4876-9ec2-f626c0573e3e")
 		)
 		(pin "14"
-			(uuid "f54e3c06-09c6-442c-9fa1-26f7fce16c44")
+			(uuid "f54e3c06-09c6-442c-9fa1-26f7fce16c46")
 		)
 		(pin "3"
-			(uuid "13d228a7-7341-4b4f-a3b3-17a741614fec")
+			(uuid "13d228a7-7341-4b4f-a3b3-17a741614fee")
 		)
 		(pin "7"
-			(uuid "b5447c11-8e0f-4ed0-8ab6-7a98b9c944c9")
+			(uuid "b5447c11-8e0f-4ed0-8ab6-7a98b9c944cb")
 		)
 		(pin "4"
-			(uuid "ee8396a1-a55f-4bd8-b7d2-5873ca717328")
+			(uuid "ee8396a1-a55f-4bd8-b7d2-5873ca71732a")
 		)
 		(pin "11"
-			(uuid "1654612f-ee1b-4122-94a6-d4703cff4900")
+			(uuid "1654612f-ee1b-4122-94a6-d4703cff4902")
 		)
 		(pin "13"
-			(uuid "4b7fd8c9-6430-42b4-a60a-b4fe1e23a033")
+			(uuid "4b7fd8c9-6430-42b4-a60a-b4fe1e23a035")
 		)
 		(pin "10"
-			(uuid "6e7b473b-61b5-4faa-af8f-b73393e0722f")
+			(uuid "6e7b473b-61b5-4faa-af8f-b73393e07231")
 		)
 		(pin "9"
-			(uuid "2bfbce40-e9c9-4700-a760-556a87ba3db1")
+			(uuid "2bfbce40-e9c9-4700-a760-556a87ba3db3")
 		)
 		(pin "12"
-			(uuid "018fc930-06b8-4d34-8a40-a52a92c32106")
+			(uuid "018fc930-06b8-4d34-8a40-a52a92c32108")
 		)
 		(pin "15"
-			(uuid "0cc9cb71-374e-40bd-93a9-69406f958488")
+			(uuid "0cc9cb71-374e-40bd-93a9-69406f95848a")
 		)
 		(pin "2"
-			(uuid "b00e9f4b-070f-4c7a-9900-018cdae8c264")
+			(uuid "b00e9f4b-070f-4c7a-9900-018cdae8c266")
 		)
 		(pin "16"
-			(uuid "6339ed85-db00-445a-8c37-c65858170564")
+			(uuid "6339ed85-db00-445a-8c37-c65858170566")
 		)
 		(pin "8"
-			(uuid "0a82617d-2c8c-4e0b-9251-06e7b7411f1c")
+			(uuid "0a82617d-2c8c-4e0b-9251-06e7b7411f1e")
 		)
 		(instances
 			(project ""
@@ -11905,7 +12184,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700"
 			(at 88.9 36.83 0)
 			(effects
 				(font
@@ -11925,6 +12204,24 @@
 		)
 		(property "Description" "Inductor"
 			(at 88.9 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "FERROCORE "
+			(at 88.9 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number " "COIL0608-0.33 "
+			(at 88.9 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12220,6 +12517,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " "FORYARD "
+			(at 273.05 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "FYS-3911BUHR-21 "
+			(at 273.05 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "c4738fdf-b877-4192-be0f-eacce78e5a47")
 		)
@@ -12284,7 +12599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-23-6:SOT-23-6"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 153.67 149.86 0)
 			(effects
 				(font
@@ -12430,52 +12745,52 @@
 			)
 		)
 		(pin "3"
-			(uuid "cfb98b6e-e8cc-4713-a95a-f26f16b46b72")
+			(uuid "cfb98b6e-e8cc-4713-a95a-f26f16b46b74")
 		)
 		(pin "14"
-			(uuid "0ed01c4a-2806-4aa6-83f3-ca9560bf5ccd")
+			(uuid "0ed01c4a-2806-4aa6-83f3-ca9560bf5ccf")
 		)
 		(pin "6"
-			(uuid "f518c61f-3c9d-4949-bdae-53275006be49")
+			(uuid "f518c61f-3c9d-4949-bdae-53275006be4b")
 		)
 		(pin "7"
-			(uuid "3556cb6e-dc0c-4c2b-8f4b-aa5e7afcc107")
+			(uuid "3556cb6e-dc0c-4c2b-8f4b-aa5e7afcc109")
 		)
 		(pin "4"
-			(uuid "273f9ed8-9339-4956-9559-02d3e8c49edf")
+			(uuid "273f9ed8-9339-4956-9559-02d3e8c49ee1")
 		)
 		(pin "2"
-			(uuid "2d65a2ec-3bf8-4f44-85bc-428a49eeda9d")
+			(uuid "2d65a2ec-3bf8-4f44-85bc-428a49eeda9f")
 		)
 		(pin "11"
-			(uuid "035c1efc-315f-47b7-ba92-f0df386eccae")
+			(uuid "035c1efc-315f-47b7-ba92-f0df386eccb0")
 		)
 		(pin "5"
-			(uuid "64831c31-b4e1-4a65-b257-ae9047e9c18e")
+			(uuid "64831c31-b4e1-4a65-b257-ae9047e9c190")
 		)
 		(pin "12"
-			(uuid "8d3a3563-cf3d-43b8-b4c7-e0be9db36416")
+			(uuid "8d3a3563-cf3d-43b8-b4c7-e0be9db36418")
 		)
 		(pin "9"
-			(uuid "a882ee9c-bed0-4fb6-bd1c-e198cd666f0e")
+			(uuid "a882ee9c-bed0-4fb6-bd1c-e198cd666f10")
 		)
 		(pin "1"
-			(uuid "db57db62-145c-47f9-beb1-de0f2e342b59")
+			(uuid "db57db62-145c-47f9-beb1-de0f2e342b5b")
 		)
 		(pin "10"
-			(uuid "e2a7a70d-60f6-4fec-83a9-a1d77f477272")
+			(uuid "e2a7a70d-60f6-4fec-83a9-a1d77f477274")
 		)
 		(pin "13"
-			(uuid "14f67753-f460-4455-8bbc-d4cfcfadcf57")
+			(uuid "14f67753-f460-4455-8bbc-d4cfcfadcf59")
 		)
 		(pin "15"
-			(uuid "0c489443-e805-4ec2-888c-a0352b010f4e")
+			(uuid "0c489443-e805-4ec2-888c-a0352b010f50")
 		)
 		(pin "16"
-			(uuid "96aaddad-3ee4-47b5-8c96-a48f5504c80a")
+			(uuid "96aaddad-3ee4-47b5-8c96-a48f5504c80c")
 		)
 		(pin "8"
-			(uuid "ec620763-cdb2-487d-b55d-494cdc2a9fee")
+			(uuid "ec620763-cdb2-487d-b55d-494cdc2a9ff0")
 		)
 		(instances
 			(project ""
